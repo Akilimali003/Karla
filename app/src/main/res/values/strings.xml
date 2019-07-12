@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Karla</string>
+    <string name="welcome_text_view">Bienvenue dans Karla</string>
+    <string name="btn_ok">Ok</string>
+</resources>
